@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Testing" duration-ms="46032" started-at="2018-06-08T17:03:37Z" finished-at="2018-06-08T17:04:23Z">
+    <groups>
+    </groups>
+    <test name="SignUp" duration-ms="46032" started-at="2018-06-08T17:03:37Z" finished-at="2018-06-08T17:04:23Z">
+      <class name="TracksPageScripts.Linkedin_SignUp_PageScripts">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="setUp" is-config="true" duration-ms="162" started-at="2018-06-08T22:33:37Z" finished-at="2018-06-08T22:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="Setup" is-config="true" duration-ms="6093" started-at="2018-06-08T22:33:37Z" finished-at="2018-06-08T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="firstTestCase()[pri:1, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="firstTestCase" duration-ms="7180" started-at="2018-06-08T22:33:43Z" finished-at="2018-06-08T22:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method status="PASS" signature="takeScreenshort(org.testng.ITestResult)[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="takeScreenshort" is-config="true" duration-ms="969" started-at="2018-06-08T22:33:53Z" finished-at="2018-06-08T22:33:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=firstTestCase status=SUCCESS method=Linkedin_SignUp_PageScripts.firstTestCase()[pri:1, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshort -->
+        <test-method status="PASS" signature="secondTestCase()[pri:2, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="secondTestCase" duration-ms="3894" started-at="2018-06-08T22:33:54Z" finished-at="2018-06-08T22:33:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+        <test-method status="PASS" signature="takeScreenshort(org.testng.ITestResult)[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="takeScreenshort" is-config="true" duration-ms="984" started-at="2018-06-08T22:34:00Z" finished-at="2018-06-08T22:34:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=secondTestCase status=SUCCESS method=Linkedin_SignUp_PageScripts.secondTestCase()[pri:2, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshort -->
+        <test-method status="PASS" signature="thirdTestCase()[pri:3, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="thirdTestCase" duration-ms="3569" started-at="2018-06-08T22:34:00Z" finished-at="2018-06-08T22:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTestCase -->
+        <test-method status="PASS" signature="takeScreenshort(org.testng.ITestResult)[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="takeScreenshort" is-config="true" duration-ms="970" started-at="2018-06-08T22:34:06Z" finished-at="2018-06-08T22:34:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=thirdTestCase status=SUCCESS method=Linkedin_SignUp_PageScripts.thirdTestCase()[pri:3, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshort -->
+        <test-method status="PASS" signature="fourthTestCase()[pri:4, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="fourthTestCase" duration-ms="3754" started-at="2018-06-08T22:34:07Z" finished-at="2018-06-08T22:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthTestCase -->
+        <test-method status="PASS" signature="takeScreenshort(org.testng.ITestResult)[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="takeScreenshort" is-config="true" duration-ms="956" started-at="2018-06-08T22:34:13Z" finished-at="2018-06-08T22:34:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fourthTestCase status=SUCCESS method=Linkedin_SignUp_PageScripts.fourthTestCase()[pri:4, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshort -->
+        <test-method status="PASS" signature="fifthTestCase()[pri:5, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="fifthTestCase" duration-ms="3578" started-at="2018-06-08T22:34:14Z" finished-at="2018-06-08T22:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthTestCase -->
+        <test-method status="PASS" signature="takeScreenshort(org.testng.ITestResult)[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="takeScreenshort" is-config="true" duration-ms="962" started-at="2018-06-08T22:34:19Z" finished-at="2018-06-08T22:34:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fifthTestCase status=SUCCESS method=Linkedin_SignUp_PageScripts.fifthTestCase()[pri:5, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshort -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="Teardown" is-config="true" duration-ms="2718" started-at="2018-06-08T22:34:20Z" finished-at="2018-06-08T22:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TracksPageScripts.Linkedin_SignUp_PageScripts@3e57cd70]" name="tearDown" is-config="true" duration-ms="395" started-at="2018-06-08T22:34:23Z" finished-at="2018-06-08T22:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TracksPageScripts.Linkedin_SignUp_PageScripts -->
+    </test> <!-- SignUp -->
+  </suite> <!-- Automation Testing -->
+</testng-results>

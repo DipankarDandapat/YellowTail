@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SignUp"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.975">
+  <properties />
+  
+  
+            <testcase name="secondTestCase" time="3.894" classname="TracksPageScripts.Linkedin_SignUp_PageScripts" />
+                <testcase name="fourthTestCase" time="3.754" classname="TracksPageScripts.Linkedin_SignUp_PageScripts" />
+                <testcase name="thirdTestCase" time="3.569" classname="TracksPageScripts.Linkedin_SignUp_PageScripts" />
+                <testcase name="firstTestCase" time="7.180" classname="TracksPageScripts.Linkedin_SignUp_PageScripts" />
+                <testcase name="fifthTestCase" time="3.578" classname="TracksPageScripts.Linkedin_SignUp_PageScripts" />
+      
+</testsuite>

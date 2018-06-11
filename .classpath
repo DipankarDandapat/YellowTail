@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/YellowTail/External Jar File/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
