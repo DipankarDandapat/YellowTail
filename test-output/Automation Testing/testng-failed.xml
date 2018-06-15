@@ -12,4 +12,19 @@
       <class name="TracksPageScripts.Linkedin_SignUp_PageScripts"/>
     </classes>
   </test> <!-- SignUp -->
+  <test name="SignUp(failed)">
+    <classes>
+      <class name="TracksPageScripts.Linkedin_SignUp_PageScripts">
+        <methods>
+          <include name="tearDown"/>
+          <include name="takeScreenshort"/>
+          <include name="Teardown"/>
+          <include name="thirdTestCase"/>
+          <include name="setUp"/>
+          <include name="fifthTestCase"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- TracksPageScripts.Linkedin_SignUp_PageScripts -->
+    </classes>
+  </test> <!-- SignUp(failed) -->
 </suite> <!-- Failed suite [Automation Testing] -->

@@ -6,11 +6,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 
 public class DriverHelper extends ExtentReportsHelper {
 	
  private static Logger log = LoggerHelper.getLogger(DriverHelper.class);
+ 
+ public static EventFiringWebDriver e_driver ;
+ public static EventListenerHelper eventListener;
 	
 	public DriverHelper(WebDriver driver) {
 		this.driver = driver;
@@ -81,7 +85,10 @@ public class DriverHelper extends ExtentReportsHelper {
 			
 			}
 			
-			
+		            e_driver= new EventFiringWebDriver(driver);
+					eventListener= new EventListenerHelper();
+					e_driver.register(eventListener);
+					driver=e_driver;
 			
 	
 		
