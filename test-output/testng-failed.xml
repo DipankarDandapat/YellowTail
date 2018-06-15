@@ -19,7 +19,6 @@
           <include name="tearDown"/>
           <include name="takeScreenshort"/>
           <include name="Teardown"/>
-          <include name="thirdTestCase"/>
           <include name="setUp"/>
           <include name="fifthTestCase"/>
           <include name="Setup"/>
